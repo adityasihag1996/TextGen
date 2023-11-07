@@ -44,6 +44,14 @@ Execute the script to test the outputs of your model:
 python inference.py --model_path "/path/to/your/model" --prompt "My name is"
 ```
 
+Here is a sample inference using the prompt "my name is"
+```
+my name is marsh and this world im out of it  
+cause withallthis abc shitim starting to sound like alfa bit 
+ha i kill me this medicines counterfeit 
+i was mislead by the sound of it how am
+```
+
 ## Disclaimer
 This project is for educational and experimental purposes only. The fine-tuning and inference scripts are provided to demonstrate the usage of the Hugging Face Transformers library and should be adapted for any rigorous training or research endeavors.
 
